@@ -1,4 +1,4 @@
-#Homework Assignment Week 5
+#Homework Assignment Week 5 - Due 10/12/2016 7:15 p.m.
 Decimal to Hex, Area of a hexagon
 
 Task #1: Write a program that prompts the user to enter an integer between 0 and 15 and displays its corresponding hex number.
